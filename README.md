@@ -1,16 +1,13 @@
-# news_app
+## Space news app
 
-A new Flutter project.
 
-## Getting Started
+:rocket: A simple news app built in Flutter that fetches data from Space Flight News Api.
 
-This project is a starting point for a Flutter application.
+Note: This API does not require a key
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://user-images.githubusercontent.com/78003631/223577000-1688cb37-4e4f-4bc9-8b44-4302b8662e06.png" width="150" height="300" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Packages :computer:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Dio
+* Http
